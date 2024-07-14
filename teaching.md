@@ -41,17 +41,19 @@ The following is a list of research topics where I am actively offering B.Sc. an
 
 If you are enrolled at TU/e and are interested in doing a research project under my supervision, feel free to reach out!
 
+<!---
 
 ---
 
-## Useful resources for students
-
-The following are very useful links for perspective students interested in working under my supervision:
+ ## Useful resources for students 
+ 
+ The following are very useful links for perspective students interested in working under my supervision:
 
 * Animesh Trivedi's advice on [CS BSc. and MSc. Thesis](https://animeshtrivedi.github.io/thesis-content-advice/) and [tesis-related resources](https://animeshtrivedi.github.io/thesis-resources/).
 
 * Animesh Trivedi's advice on [writing a survey](https://animeshtrivedi.github.io/lit-study/).
 
 * Simon Peyton Jones' [resources about research](https://simon.peytonjones.org/research-skills/).
+--->
 
 <br>
