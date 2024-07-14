@@ -6,8 +6,8 @@ layout: default
 
 At TU/e, I am teaching the following courses:
 
-* [Linear Statistical models](https://research.tue.nl/en/courses/linear-statistical-models-3). B.Sc. in Mathematics
-* [Regression Models and Applications](https://research.tue.nl/nl/courses/regression-models-and-applications). B.Sc. in Mathematics
+* [Linear Statistical models](https://research.tue.nl/en/courses/linear-statistical-models-3). [B.Sc. in Mathematics](https://www.tue.nl/en/education/bachelor-college/bachelor-applied-mathematics)
+* [Regression Models and Applications](https://research.tue.nl/nl/courses/regression-models-and-applications). [B.Sc. in Mathematics](https://www.tue.nl/en/education/bachelor-college/bachelor-applied-mathematics)
 
 #### Past courses
 
@@ -37,7 +37,7 @@ The following is a list of research topics where I am actively offering B.Sc. an
 * Statistics for complex data
 * Applications in statistical finance
 * Theory of copula models
-* Applications in computer systems and compiler design (in collaboration with the CS department of VU Amsterdam and TU/e)
+* Design of experiments
 
 If you are enrolled at TU/e and are interested in doing a research project under my supervision, feel free to reach out!
 
