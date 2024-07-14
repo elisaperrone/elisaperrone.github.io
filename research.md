@@ -3,18 +3,13 @@ layout: default
 ---
 
 
-My research spans from mathematical statistics to applied statistics. I am mainly interested in multivariate statistics and dependence modeling, with particuar emphasis on __copulas__ and their __geometric properties__. My work includes the development of copula-based approaches used in __optimal experimental design__ and __environmental sciences__, such as hydrology and __weather forecasting__.
+My research spans from mathematical statistics to applied statistics. I am mainly interested in multivariate statistics and dependence modeling, with particuar emphasis on _copulas_ and their _geometric properties_. My work includes the development of copula-based approaches used in _optimal experimental design_ and _environmental sciences_, such as hydrology and _weather forecasting_.
 
 
 I am always looking for motivated students who share my research interests and my passion for mathematics and statistics. If you are interested in doing a research project under my supervision, you can have a look [here](teaching.html) for a list of project topics.
 
 
-
-### In preparation
-
-
-* _On testing stochastic monotonicity via discrete copulas_ with F. Durante<br>
-   keywords: copulas, convex optimization, hypothesis testing.
+---
 
 
 ### Preprints
@@ -29,6 +24,9 @@ keywords: weather forecasting, empirical copulas.
 F. Durante and E. Perrone
 SIS 2020 (to appear)<br>
 keywords: copulas, convex optimization, hypothesis testing.
+
+
+---
 
 
 ### Published papers
