@@ -6,8 +6,8 @@ layout: default
 
 At TU/e, I am teaching the following courses:
 
-* [Linear Statistical models](). B.Sc. in Mathematics
-* [Regression Models and Applications](). B.Sc. in Mathematics
+* [Linear Statistical models](https://research.tue.nl/en/courses/linear-statistical-models-3). B.Sc. in Mathematics
+* [Regression Models and Applications](https://research.tue.nl/nl/courses/regression-models-and-applications). B.Sc. in Mathematics
 
 #### Past courses
 
@@ -48,10 +48,10 @@ If you are enrolled at TU/e and are interested in doing a research project under
 
 The following are very useful links for perspective students interested in working under my supervision:
 
-* Animesh Trivedi's _excellent_ advice on [CS BSc. and MSc. Thesis](https://animeshtrivedi.github.io/thesis-content-advice/) and [tesis-related resources](https://animeshtrivedi.github.io/thesis-resources/).
+* Animesh Trivedi's advice on [CS BSc. and MSc. Thesis](https://animeshtrivedi.github.io/thesis-content-advice/) and [tesis-related resources](https://animeshtrivedi.github.io/thesis-resources/).
 
-* Animesh Trivedi's _excellent_ advice on [writing a survey](https://animeshtrivedi.github.io/lit-study/).
+* Animesh Trivedi's advice on [writing a survey](https://animeshtrivedi.github.io/lit-study/).
 
-* Simon Peyton Jones' very useful [resources about research](https://simon.peytonjones.org/research-skills/).
+* Simon Peyton Jones' [resources about research](https://simon.peytonjones.org/research-skills/).
 
 <br>
