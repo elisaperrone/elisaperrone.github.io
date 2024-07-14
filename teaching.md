@@ -30,7 +30,7 @@ At [JKU Linz](https://www.jku.at/en/institute-of-applied-statistics/) (Austria)
 
 I am always looking for motivated students who share my research interests.
 
-The following is a list of research topics where I am actively offering B.Sc. and M.Sc. thesis projects. I am also happy to supervise [_capita selecta_]() and other research projects in Mathematics and Data Science.
+The following is a list of research topics where I am actively offering B.Sc. and M.Sc. thesis projects. I am also happy to supervise [_internships_](https://studiegids.tue.nl/opleidingen/graduate-school/masters-programs/industrial-and-applied-mathematics0/curriculum/internship) and other research projects in Mathematics and Data Science.
 
 * Weather forecasting (in collaboration with [KNMI](https://www.knmi.nl/home))
 * Dependence modeling and copulas
