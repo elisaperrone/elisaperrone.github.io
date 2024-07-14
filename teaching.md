@@ -1,0 +1,57 @@
+---
+layout: default
+---
+
+## Courses
+
+At TU/e, I am teaching the following courses:
+
+* [Linear Statistical models](). B.Sc. in Mathematics
+* [Regression Models and Applications](). B.Sc. in Mathematics
+
+#### Past courses
+
+At [UMass Lowell](https://www.uml.edu/sciences/mathematics/) (MA, USA)
+
+* Fall 2019 -- Applied Statistics (MATH 3850 - 201)
+* Spring 2020 -- Applied Statistics (MATH 3850 - 201)
+* Spring 2020 -- Linear Statistics Modeling and Regression (MATH 5910 - 201)
+
+At [JKU Linz](https://www.jku.at/en/institute-of-applied-statistics/) (Austria)
+
+* Fall 2014	-- Statistics for Social sciences and Economics
+* Spring 2015 -- Methods for statistical projects (together with Werner Mueller)
+* Spring 2015 -- Statistical projects (together with Werner Mueller)
+
+
+---
+
+## Student Projects
+
+I am always looking for motivated students who share my research interests.
+
+The following is a list of research topics where I am actively offering B.Sc. and M.Sc. thesis projects. I am also happy to supervise [_capita selecta_]() and other research projects in Mathematics and Data Science.
+
+* Weather forecasting (in collaboration with [KNMI](https://www.knmi.nl/home))
+* Dependence modeling and copulas
+* Statistics for complex data
+* Applications in statistical finance
+* Theory of copula models
+* Applications in computer systems and compiler design (in collaboration with the CS department of VU Amsterdam and TU/e)
+
+If you are enrolled at TU/e and are interested in doing a research project under my supervision, feel free to reach out!
+
+
+---
+
+## Useful resources for students
+
+The following are very useful links for perspective students interested in working under my supervision:
+
+* Animesh Trivedi's _excellent_ advice on [CS BSc. and MSc. Thesis](https://animeshtrivedi.github.io/thesis-content-advice/) and [tesis-related resources](https://animeshtrivedi.github.io/thesis-resources/).
+
+* Animesh Trivedi's _excellent_ advice on [writing a survey](https://animeshtrivedi.github.io/lit-study/).
+
+* Simon Peyton Jones' very useful [resources about research](https://simon.peytonjones.org/research-skills/).
+
+<br>
