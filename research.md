@@ -3,7 +3,7 @@ layout: default
 ---
 
 
-My research spans from mathematical statistics to applied statistics. I am mainly interested in multivariate statistics and dependence modeling, with particuar emphasis on _copulas_ and their _geometric properties_. My work includes the development of copula-based approaches used in _optimal experimental design_ and _environmental sciences_, such as hydrology and _weather forecasting_.
+My research lies at the interface between theoretical and applied statistics. I am mainly interested in _multivariate statistics_ and _dependence modeling_, with particuar emphasis on _copulas_ and their mathematical properties. My work includes the development of novel and innovative methodology for _environmental sciences_ and _weather forecasting_.
 
 My list of publications is available [here](https://research.tue.nl/en/persons/elisa-perrone/publications/).
 
