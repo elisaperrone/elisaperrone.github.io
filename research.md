@@ -14,7 +14,6 @@ I am always looking for motivated students who share my research interests and m
 ---
 
 ## Group
-* Jasper Arends (PhD Student)
 * Maurits Flos (Master's Student)
 * Tristen van Leijenhorst (Master's Student) 
 
