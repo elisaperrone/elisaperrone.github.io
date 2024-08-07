@@ -8,12 +8,12 @@ My research spans from mathematical statistics to applied statistics. I am mainl
 My list of publications is available [here](https://research.tue.nl/en/persons/elisa-perrone/publications/).
 
 
-I am always looking for motivated students who share my research interests and my passion for mathematics and statistics. If you are interested in doing a research project under my supervision, you can have a look [here](https://research.tue.nl/en/persons/elisa-perrone/supervised-student-theses/) for a list of project topics that I supervised in the past.
+I am always looking for motivated students who share my research interests and my passion for mathematics and statistics. If you are interested in doing a research project under my supervision, you can have a look [here](teaching.html) for a list of project topics.
 
 
 ---
 
-### Recent conference and seminar talks
+### Recent conferences and seminar talks
 * SMPS 2024
 * PRISMA 2024 
 * SMSA 2024 
