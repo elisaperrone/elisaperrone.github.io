@@ -13,25 +13,23 @@ I am always looking for motivated students who share my research interests and m
 
 ---
 
-### Recent conferences and seminar talks
-* SMPS 2024
-* PRISMA 2024 
-* SMSA 2024 
-* CMStatistics 2023 
-* CMStatistics 2022
-* SMPS 2022
-* COMPSTAT 2022 
-* MAF 2022
-* CMStatistics 2021
-* AGOP 2021
-* SIS 2021
-* ENBIS Spring Meeting 2021
+## Group
+* Jasper Arends (PhD Student)
+* Maurits Flos (Master's Student)
+* Tristen van Leijenhorst (Master's Student) 
 
-<br>
 
-* 10/2023 UvA Economics Research Seminar
-* 12/2022 KU Leuven Statistics Seminar
-
+#### Former members
+* Els Weinans (Postdoc)
+* Joris van der Moore (Master's Student)
+* Francesco Guardamagna (Master's Student)
+* Zoe van den Heuvel (Master's Student)
+* Ellen Stevens (Master's Student)
+* Timo Homma (Bachelor's Student)
+* Ida Kuresevic (Bachelor's Student)
+* Tom Jacobs (Bachelor's Student)
+* Daan Zwerus (Bachelor's Student)
+* Alicja Grudnowska (Bachelor's Student)
 
 
 
