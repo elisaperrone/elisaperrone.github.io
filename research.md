@@ -5,77 +5,35 @@ layout: default
 
 My research spans from mathematical statistics to applied statistics. I am mainly interested in multivariate statistics and dependence modeling, with particuar emphasis on _copulas_ and their _geometric properties_. My work includes the development of copula-based approaches used in _optimal experimental design_ and _environmental sciences_, such as hydrology and _weather forecasting_.
 
-
-I am always looking for motivated students who share my research interests and my passion for mathematics and statistics. If you are interested in doing a research project under my supervision, you can have a look [here](teaching.html) for a list of project topics.
-
-
----
+My list of publications is available [here](https://research.tue.nl/en/persons/elisa-perrone/publications/).
 
 
-### Preprints
-
-
-* _A case study of empirical copula methods for the statistical correction of forecasts of the ALADIN-LAEF system_
-E. Perrone, I. Schicker, and M. Lang
-Contributions to Athmospheric Sciences (to appear)<br>
-keywords: weather forecasting, empirical copulas.
-
-* _Stochastic dependence with discrete copulas_
-F. Durante and E. Perrone
-SIS 2020 (to appear)<br>
-keywords: copulas, convex optimization, hypothesis testing.
+I am always looking for motivated students who share my research interests and my passion for mathematics and statistics. If you are interested in doing a research project under my supervision, you can have a look [here](https://research.tue.nl/en/persons/elisa-perrone/supervised-student-theses/) for a list of project topics that I supervised in the past.
 
 
 ---
 
+### Recent conference and seminar talks
+* SMPS 2024
+* PRISMA 2024 
+* SMSA 2024 
+* CMStatistics 2023 
+* CMStatistics 2022
+* SMPS 2022
+* COMPSTAT 2022 
+* MAF 2022
+* CMStatistics 2021
+* AGOP 2021
+* SIS 2021
+* ENBIS Spring Meeting 2021
 
-### Published papers
+<br>
 
-* Geometry of discrete copulas.
-E. Perrone, L. Solus, and C. Uhler
-Published in Journal of Multivariate Analysis (2019)
-[journal]<br>
-keywords: copulas, algebraic statistics, discrete geometry.
-
-
-* Ds-optimality for copula models.
-E. Perrone, A. Rappold, and W. G. Müller
-Published in Statistical Methods & Applications (2017)
-[journal]<br>
-keywords: copulas, optimal experimental design.
-
-
-* Optimal designs for copula models.
-E. Perrone and W. G. Müller
-Published in Statistics (2016)
-[journal]<br>
-keywords: copulas, optimal experimental design, equivalence theory.
-
-* Asymmetric copulas and their application in design of experiments.
-F. Durante and E. Perrone
-Published in On Logical, Algebraic and Probabilistic Aspects of Fuzzy Set Theory (2016)
-[journal]<br>
-keywords: copulas, optimal experimental design, non-exchangeability.
+* 10/2023 UvA Economics Research Seminar
+* 12/2022 KU Leuven Statistics Seminar
 
 
-* Spin-off Extreme Value and Archimedean copulas for estimating the bivariate structural risk.
-R. Pappadà, E. Perrone, F. Durante, and G. Salvadori
-Published in Stochastic Environmental Research and Risk Assessment (2015)
-[journal]<br>
-keywords: copulas, risk assessment, applied statistics.
 
-* A study of robustness in the optimal design of experiments for copula models.
-E. Perrone
-Published in Proceedings of Stochastic Models, Statistics and Their Applications (2015)
-[conference]<br>
-keywords: copulas, optimal experimental design, robust designs.
-
-
-* Semi-parametric approximation of the Kendall's distribution function and multivariate Return Periods.
-G. Salvadori, F. Durante, and E. Perrone
-Published in the Journal de la Société Française de Statistique (2013)
-[journal]<br>
-keywords: copulas, risk assessment, applied statistics.
 
 <br>
 <br>
