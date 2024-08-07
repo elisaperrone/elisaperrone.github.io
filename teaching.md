@@ -25,8 +25,8 @@ At [UMass Lowell](https://www.uml.edu/sciences/mathematics/) (MA, USA)
 At [JKU Linz](https://www.jku.at/en/institute-of-applied-statistics/) (Austria)
 
 * Fall 2014	-- Statistics for Social sciences and Economics
-* Spring 2015 -- Methods for statistical projects (together with Werner Mueller)
-* Spring 2015 -- Statistical projects (together with Werner Mueller)
+* Spring 2015 -- Methods for statistical projects 
+* Spring 2015 -- Statistical projects 
 
 
 ---
