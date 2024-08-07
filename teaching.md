@@ -4,12 +4,17 @@ layout: default
 
 ## Courses
 
-At TU/e, I am teaching the following courses:
+At TU/e, I am currently teaching the following courses:
 
 * [Linear Statistical models](https://research.tue.nl/en/courses/linear-statistical-models-3). [B.Sc. in Mathematics](https://www.tue.nl/en/education/bachelor-college/bachelor-applied-mathematics)
 * [Regression Models and Applications](https://research.tue.nl/nl/courses/regression-models-and-applications). [B.Sc. in Mathematics](https://www.tue.nl/en/education/bachelor-college/bachelor-applied-mathematics)
 
 #### Past courses
+
+At TU/e
+
+* Spring 2022 - Design and analysis of experiments (2DMN00)
+* Spring 2021 - Data Science Research Methods (JBM020)
 
 At [UMass Lowell](https://www.uml.edu/sciences/mathematics/) (MA, USA)
 
@@ -38,6 +43,8 @@ The following is a list of research topics where I am actively offering B.Sc. an
 * Applications in statistical finance
 * Theory of copula models
 * Design of experiments
+
+You can have a look [here](https://research.tue.nl/en/persons/elisa-perrone/supervised-student-theses/) for a list of project topics that I supervised in the past.
 
 If you are enrolled at TU/e and are interested in doing a research project under my supervision, feel free to reach out!
 
