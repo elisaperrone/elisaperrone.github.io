@@ -8,6 +8,7 @@ layout: default
 
 
 ### Organized conference sessions
+* PRISMA 2024
 * CMStatistics 2024, organized invited session (with Kirien Whan and Bastien Francois)
 * CMStatistics 2023, organized invited session
 * CMStatistics 2022, organized invited session
