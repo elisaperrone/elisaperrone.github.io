@@ -44,7 +44,7 @@ The following is a list of research topics where I am actively offering B.Sc. an
 * Theory of copula models
 * Design of experiments
 
-You can have a look [here](https://research.tue.nl/en/persons/elisa-perrone/supervised-student-theses/) for a list of project topics that I supervised in the past.
+You can have a look [here](https://research.tue.nl/en/persons/elisa-perrone/supervised-student-theses/) for a list of projects I supervised in the past.
 
 If you are enrolled at TU/e and are interested in doing a research project under my supervision, feel free to reach out!
 
