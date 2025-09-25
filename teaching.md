@@ -6,13 +6,14 @@ layout: default
 
 At TU/e, I am currently teaching the following courses:
 
-* [Linear Statistical models](https://research.tue.nl/en/courses/linear-statistical-models-3). [B.Sc. in Mathematics](https://www.tue.nl/en/education/bachelor-college/bachelor-applied-mathematics)
 * [Regression Models and Applications](https://research.tue.nl/nl/courses/regression-models-and-applications). [B.Sc. in Mathematics](https://www.tue.nl/en/education/bachelor-college/bachelor-applied-mathematics)
+* [Dependence Modeling](https://research.tue.nl/en/courses/dependence-modeling). [B.Sc. in Mathematics](https://www.tue.nl/en/education/bachelor-college/bachelor-applied-mathematics)
 
 #### Past courses
 
 At TU/e
 
+* Fall 2020 until 2024 - Linear Statistical Models (2WS40)
 * Spring 2022 - Design and analysis of experiments (2DMN00)
 * Spring 2021 - Data Science Research Methods (JBM020)
 
