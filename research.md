@@ -16,18 +16,19 @@ I am always looking for motivated students who share my research interests and m
 
 ## Group
 * Jasper Arends (PhD Student)
-* Maurits Flos (Master's Student)
-* Tristen van Leijenhorst (Master's Student) 
+* Anas Mourahib (Postdoc - cosupervised)
 
 
 #### Former members
-* Els Weinans (Postdoc)
+* Els Weinans (Postdoc - cosupervised)
+* Maurits Flos (Master's Student)
 * Joris van der Moore (Master's Student)
 * Francesco Guardamagna (Master's Student)
 * Zoe van den Heuvel (Master's Student)
 * Ellen Stevens (Master's Student)
 * Timo Homma (Bachelor's Student)
 * Ida Kuresevic (Bachelor's Student)
+* Tristen van Leijenhorst (Bachelor's Student) 
 * Tom Jacobs (Bachelor's Student)
 * Daan Zwerus (Bachelor's Student)
 * Alicja Grudnowska (Bachelor's Student)
