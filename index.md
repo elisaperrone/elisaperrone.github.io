@@ -7,7 +7,7 @@ layout: default
 I am an Assistant Professor (tenured) in the [Department of Mathematics and Computer Science](https://www.tue.nl/en/our-university/departments/mathematics-and-computer-science) at the Eindhoven University of Technology ([TU Eindhoven](https://www.tue.nl)).
 <br>
 
-My research lies at the interface between theoretical and applied statistics. I am mainly interested in multivariate statistics and dependence modeling, with particular emphasis on copulas and their mathematical properties
+My research lies at the interface between theoretical and applied statistics. I am mainly interested in multivariate statistics and dependence modeling, with particular emphasis on copulas and their mathematical properties.
 My work includes the development of novel methodology for environmental sciences and weather forecasting.
 <br>
 
