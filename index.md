@@ -7,7 +7,7 @@ layout: default
 I am an Assistant Professor (tenured) in the [Department of Mathematics and Computer Science](https://www.tue.nl/en/our-university/departments/mathematics-and-computer-science) at the Eindhoven University of Technology ([TU Eindhoven](https://www.tue.nl)).
 <br>
 
-My research lies at the interface between theoretical and applied statistics, with a focus on multivariate statistics and dependence modeling. I am particularly interested in understanding the mathematical foundations of dependence structures through a geometric lens, and in developing statistical methods for modeling complex multivariate data.
+I work at the interface between theoretical and applied statistics, with a focus on multivariate statistics and dependence modeling. I am particularly interested in understanding the mathematical foundations of dependence structures through a geometric lens, and in developing statistical methods for modeling complex multivariate data.
 <br>
 
 My research also extends to probabilistic weather forecasting, where I develop statistical methods to better represent uncertainty and dependence in weather predictions, in close collaboration with meteorologists at national weather agencies, particularly the Royal Netherlands Meteorological Institute ([KNMI](https://www.knmi.nl/home)) and [GeoSphere Austria](https://www.geosphere.at/en).
