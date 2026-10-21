@@ -3,8 +3,11 @@ layout: default
 ---
 
 
-My research spans mathematical statistics, discrete geometry, and probabilistic weather forecasting, exploring the connections between these areas. I am particularly interested in the mathematical foundations of dependence modeling, including copula theory and its geometric and combinatorial aspects, as well as in developing statistical methodology for multivariate probabilistic forecasting.
+My research spans mathematical statistics, discrete geometry, and probabilistic weather forecasting, exploring the connections between these areas. A central theme of my work is understanding dependence through a geometric lens and using these insights to develop new modeling approaches, particularly for discrete and mixed data and multivariate forecasting.
 
+My research has led to regular invitations to present at international conferences, workshops, and research seminars across statistics, mathematics, and meteorology.
+
+<br>
 My peer-reviewed publications are listed on [my university profile](https://research.tue.nl/en/persons/elisa-perrone/publications/), while a complete list including preprints is available on [Google Scholar](https://scholar.google.com/citations?hl=en&user=K2X8zWRTWWwC&view_op=list_works&sortby=pubdate).
 
 
