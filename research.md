@@ -14,11 +14,11 @@ I am always looking for motivated students who share my research interests and m
 
 ## Research funding
 
-**Erwin Schrödinger Fellowship** — Austrian Science Fund (FWF), 2017–2019  
+**Erwin Schrödinger Fellowship** - Austrian Science Fund (FWF), 2017–2019  
 **Project:** [Geometry of Discrete Copulas for Weather Forecasting](https://www.fwf.ac.at/en/research-radar/10.55776/J3968)  
 **Role:** Principal Investigator | **Funding:** EUR 160,960
 
-**[YES XIII: Dependence Modeling](https://www.eurandom.tue.nl/event/https-www-eurandom-tue-nl-event-yes-dependence-modeling/)** — 2025  
+**[YES XIII: Dependence Modeling](https://www.eurandom.tue.nl/event/https-www-eurandom-tue-nl-event-yes-dependence-modeling/)** - 2025  
 **Role:** Co-organizer; responsible for securing funding  
 **Funding secured:** EUR 18,500 ([4TU.AMI](https://www.4tu.nl/ami/Agenda-Events/YES-XIII/): EUR 5,000; [NWO WBO](https://www.nwo.nl/en/projects/osegd56489): EUR 4,000; STAR: EUR 4,500; Eurandom: EUR 5,000)
 
