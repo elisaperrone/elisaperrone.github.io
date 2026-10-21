@@ -13,11 +13,11 @@ I am always looking for motivated students who share my research interests and m
 
 ---
 
-## Research funding
+## Funding
 
-### Projects 
+### Research projects 
 
-**Erwin Schrödinger Fellowship** - Austrian Science Fund (FWF), 2017–2019  
+**[Erwin Schrödinger Fellowship](https://www.fwf.ac.at/en/funding/portfolio/careers/erwin-schroedinger)** - Austrian Science Fund (FWF), 2017–2019  
 **Project:** [Geometry of Discrete Copulas for Weather Forecasting](https://www.fwf.ac.at/en/research-radar/10.55776/J3968)  
 **Role:** Principal Investigator | **Funding:** EUR 160,960
 
