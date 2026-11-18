@@ -35,7 +35,7 @@ At [JKU Linz](https://www.jku.at/en/institute-of-applied-statistics/) (Austria)
 ### Teaching qualifications and recognition
 
 - University Teaching Qualification (UTQ/BKO), TU/e (2022)
-- Excellence in Teaching Certificates, 2021 and 2022
+- Excellent Teaching Awards in 2022, 2023, and 2026
 - Nominated for the Best Teacher Award in Bachelor Applied Mathematics, TU/e, 2021
 
 ---

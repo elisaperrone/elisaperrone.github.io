@@ -17,6 +17,12 @@ I am always looking for motivated students who share my research interests and m
 
 ### Research projects 
 
+**[NWO Talent Scheme VIDI](https://www.nwo.nl/en/news/109-vidi-grants-awarded-to-talented-researchers)** - NWO, 2027–2032  
+**Project:** [MOSAIC: Multivariate structure and interdependence in complex data]  
+**Role:** Principal Investigator | **Funding:** EUR 981,142
+**Note:** EUR 850,000 NWO; EUR 131,142 TU/e
+
+
 **[Erwin Schrödinger Fellowship](https://www.fwf.ac.at/en/funding/portfolio/careers/erwin-schroedinger)** - Austrian Science Fund (FWF), 2017–2019  
 **Project:** [Geometry of Discrete Copulas for Weather Forecasting](https://www.fwf.ac.at/en/research-radar/10.55776/J3968)  
 **Role:** Principal Investigator | **Funding:** EUR 160,960
