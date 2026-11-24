@@ -18,8 +18,9 @@ I am always looking for motivated students who share my research interests and m
 ### Research projects 
 
 **[NWO Talent Scheme VIDI](https://www.nwo.nl/en/news/109-vidi-grants-awarded-to-talented-researchers)** - NWO, 2027–2032  
-**Project:** [MOSAIC: Multivariate structure and interdependence in complex data]  
+**Project:** MOSAIC: Multivariate structure and interdependence in complex data  
 **Role:** Principal Investigator | **Funding:** EUR 981,142
+
 **Note:** EUR 850,000 NWO; EUR 131,142 TU/e
 
 
